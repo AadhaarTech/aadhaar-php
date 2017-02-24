@@ -1,0 +1,12 @@
+{
+    "name": "itsbalamurali/aadhaar",
+    "description": "Aadhaar API PHP Client",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Balamurali Pandranki",
+            "email": "murali@labwire.tech"
+        }
+    ],
+    "require": {}
+}
