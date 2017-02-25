@@ -1,5 +1,5 @@
 {
-    "name": "itsbalamurali/aadhaar",
+    "name": "aadhaar/aadhaar",
     "description": "Aadhaar API PHP Client",
     "type": "library",
     "authors": [
